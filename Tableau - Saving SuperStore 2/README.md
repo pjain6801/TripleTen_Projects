@@ -21,9 +21,7 @@ The primary goal of this project is to identify the root causes of returned orde
 - Tableau: Utilize Tableau for data visualization and analysis.
 
 ## Link to the project:
-https://public.tableau.com/views/saving_super_store_2_16961068198490/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
-
-##  Link to the presentation:
+(https://public.tableau.com/app/profile/pooja.jain8856/viz/Sprint5Project_17392866083920/Story1)
 
 ## Workbook Preview:
 ![Sample Image](https://github.com/)
