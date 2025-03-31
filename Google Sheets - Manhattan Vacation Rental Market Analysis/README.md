@@ -19,3 +19,5 @@ The primary objective of this project is to deliver data-driven insights and rec
 ## Link to the project:
 (https://docs.google.com/spreadsheets/d/1qRwiQmtcW7V6AWyYUrBhCU7x_LwG8L-jalCpklXxP5w/edit?usp=sharing)
 
+## Workbook Preview:
+![Sample Image](https://github.com/Kseniya-G/TripleTen_Projects/blob/main/Google%20Sheets%20-%20Manhattan%20Vacation%20Rental%20Market%20Analysis/Pics/1.png)
