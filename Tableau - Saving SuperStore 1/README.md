@@ -33,7 +33,7 @@ The primary goal of this project is to leverage Tableau's data visualization cap
 - Tableau: Utilized for data visualization and analysis.
 
 ## Link to the project:
-[https://public.tableau.com/](https://public.tableau.com/app/profile/pooja.jain8856/viz/Sprint4Project_17381823721440/Dashboard1)
+(https://public.tableau.com/app/profile/pooja.jain8856/viz/Sprint4Project_17381823721440/Dashboard1)
 
 ## Workbook Preview:
 ![Alt Text]()
