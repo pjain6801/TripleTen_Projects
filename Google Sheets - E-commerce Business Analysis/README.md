@@ -4,7 +4,7 @@
 
 
 ## Description of the Project:
-
+Analyzing e-commerce transaction logs to build a conversion funnel, conduct cohort analysis, and calculate retention rates, providing data-driven insights for business growth.
 
 ## Project Goal:
 
