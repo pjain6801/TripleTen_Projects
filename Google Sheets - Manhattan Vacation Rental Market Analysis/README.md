@@ -20,7 +20,12 @@ The primary objective of this project is to deliver data-driven insights and rec
 (https://docs.google.com/spreadsheets/d/1qRwiQmtcW7V6AWyYUrBhCU7x_LwG8L-jalCpklXxP5w/edit?usp=sharing)
 
 ## Workbook Preview:
-![Sample Image](https://github.com/pjain6801/TripleTen_Projects/blob/main/Google%20Sheets%20-%20Manhattan%20Vacation%20Rental%20Market%20Analysis/image%201.png)
+![Sample Image](https://github.com/pjain6801/TripleTen_Projects/blob/main/Google%20Sheets%20-%20Manhattan%20Vacation%20Rental%20Market%20Analysis/image%204.png)
 
 ![Sample Image](https://github.com/pjain6801/TripleTen_Projects/blob/main/Google%20Sheets%20-%20Manhattan%20Vacation%20Rental%20Market%20Analysis/image%202.png)
+
+![Sample Image](https://github.com/pjain6801/TripleTen_Projects/blob/main/Google%20Sheets%20-%20Manhattan%20Vacation%20Rental%20Market%20Analysis/image%203.png)
+
+![Sample Image](https://github.com/pjain6801/TripleTen_Projects/blob/main/Google%20Sheets%20-%20Manhattan%20Vacation%20Rental%20Market%20Analysis/image%201.png)
+
 
